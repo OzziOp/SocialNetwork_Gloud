@@ -1,0 +1,35 @@
+﻿@{
+    Layout = null;
+}
+@model SocialNetwork.Models.LoginClass
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Вход</title>
+</head>
+<body>
+    @using(Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <table>
+            <tr>
+                <td>@Html.Label("Логин")</td>
+                <td>@Html.TextBoxFor(m=>m.Email)</td>
+                <td>@Html.ValidationMessageFor(m=>m.Email)</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Пароль")</td>
+                <td>@Html.PasswordFor(m=>m.Password)</td>
+                <td>@Html.ValidationMessageFor(m=>m.Password)</td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Подтвердить"></td>
+                <td>@Html.ActionLink("Регистрация",  "RegisterView", "Account")</td>
+
+            </tr>
+        </table>
+    }
+</body>
+</html>
