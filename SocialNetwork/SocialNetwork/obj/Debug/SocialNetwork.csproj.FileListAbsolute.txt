@@ -39,3 +39,44 @@ c:\users\сергей\documents\visual studio 2012\Projects\SocialNetwork\Social
 c:\users\сергей\documents\visual studio 2012\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csprojResolveAssemblyReference.cache
 c:\users\сергей\documents\visual studio 2012\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.dll
 c:\users\сергей\documents\visual studio 2012\Projects\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\SocialNetwork.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\SocialNetwork.pdb
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\Antlr3.Runtime.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\EntityFramework.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\Microsoft.Web.Infrastructure.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Net.Http.Formatting.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Http.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Http.WebHost.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Optimization.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Providers.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Razor.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\WebGrease.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\EntityFramework.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\Newtonsoft.Json.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Net.Http.Formatting.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Http.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Http.WebHost.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Mvc.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.Razor.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Deployment.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\System.Web.WebPages.Razor.xml
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\EntityFramework.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Http.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Mvc.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Optimization.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Providers.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.Razor.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.WebPages.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csprojResolveAssemblyReference.cache
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.dll
+D:\Habs\SNG\SocialNetwork_Gloud\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb

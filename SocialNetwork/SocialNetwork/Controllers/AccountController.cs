@@ -16,10 +16,7 @@ namespace SocialNetwork.Controllers
         [HttpGet]
         public ActionResult LoginView()
         {
-            var cookie2 = Request.Cookies["222"];
-            var value = cookie2.Value;
-            var value1 = cookie2.Name;
-            var value2 = cookie2.Expires;
+           
             return View();
         }
         [HttpPost]
