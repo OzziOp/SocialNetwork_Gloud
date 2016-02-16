@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model SocialNetwork.Models.User
+<!DOCTYPE html>
+
+<html>
+<head>
+    <style>
+        .pos {float:right;font-size:14px;
+        }
+    </style>
+    <meta name="viewport" content="width=device-width" />
+    <title>Личный кабинет</title>
+</head>
+<body>
+    <BR>
+    <table class="pos">
+        <tr><td>@Model.LastName</td> <td>@Model.LastName</td></tr>
+        <tr><td>Дата рождения: @Model.Birthday </td></tr>
+        <tr><td>Место рождения: @Model.Birthplace</td></tr>
+        <tr><td>@Html.ActionLink("Редактировать",  "EditUser", "Account")</td></tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+@model SocialNetwork.Models.EditUser 
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Редактированеи профиля</title>
+    
+</head>
+<body>
+     @using(Html.BeginForm())
+    {
+        <table>
+            <tr><td>Имя: </td><td>@Html.TextBoxFor(m=>m.FirstName)</td></tr>
+            <tr><td>Фамилия: </td><td>@Html.TextBoxFor(m=>m.LastName)</td></tr>
+            <tr><td>Дата рождения: </td><td>@Html.TextBoxFor(m=>m.Birthday)</td></tr>
+            <tr><td>Место рождения: </td><td>@Html.TextBoxFor(m=>m.Birthplace)</td></tr>
+            <tr ><td colspan="2"><input type="submit" value="Сохранить"></td></tr>
+        </table>
+     }
+</body>
+</html>
